@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TU_Placement</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titles">
+        <item>Mock</item>
+        <item>Quiz</item>
+        <item>Predictor</item>
+        <item>Interview Questions</item>
+    </string-array>
+
+    <array name="icons">
+
+        <item>@drawable/tb</item>
+        <item>@drawable/tb</item>
+        <item>@drawable/tb</item>
+        <item>@drawable/tb</item>
+        <item>@drawable/tb</item>
+    </array>
+
+</resources>

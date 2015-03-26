@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+      <LinearLayout
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"/>
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/name" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="CGPA"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/cgpa" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of projects completed till now"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/projects" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of Technical internships done till now "/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/internships" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of Technical societies or events involved in"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/societies" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of non technical events or competitions or societies taken part in "/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/nontechnical" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of certificates in global or national coding competitions taken part in "/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/certificates" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Number of languages and technologies with high proficiency to be able to answer at the time of interview"/>
+    <CheckBox android:id="@+id/java"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Java"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/php"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PHP"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/python"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Python"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/ruby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ruby on Rails"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/jsp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jsp"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/ajax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ajax"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/hacking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hacking"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/node"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Node.js"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/ccna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CCNA"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/machine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Machine Learning or Data Mining"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/dotnet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=".NET"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/nosql"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NOSql(MongoDb, Neo4J, Hbase, CouchDb)"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox android:id="@+id/research"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Research"
+        android:onClick="onCheckboxClicked"/>
+      </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
