@@ -4,13 +4,6 @@
     android:layout_height="fill_parent"
     android:background="@drawable/backrepeat" >
 
-    <ImageView
-        android:id="@+id/imgLogo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:src="@drawable/javapapers"
-        android:tileMode="repeat" />
 
     <TextView
         android:layout_width="fill_parent"
@@ -18,7 +11,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="10dp"
         android:gravity="center_horizontal"
-        android:text="By Vidur"
+        android:text="Thapar Placements"
         android:textColor="#454545"
         android:textSize="12sp" />
 

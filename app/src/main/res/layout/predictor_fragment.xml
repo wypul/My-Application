@@ -64,7 +64,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:id="@+id/nontechnical" />
+        android:id="@+id/contests" />
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -149,6 +149,16 @@
         android:layout_height="wrap_content"
         android:text="Research"
         android:onClick="onCheckboxClicked"/>
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/submit"
+        android:onClick="onClick"/>
+         <TextView
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/display"/>
       </LinearLayout>
     </ScrollView>
 
