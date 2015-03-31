@@ -24,6 +24,7 @@ import com.example.vipul.myapplication.slidelist.Interview_Fragment;
 import com.example.vipul.myapplication.slidelist.Mock_Fragment;
 import com.example.vipul.myapplication.slidelist.Predictor_Fragment;
 import com.example.vipul.myapplication.slidelist.Quiz_Fragment;
+import com.pushbots.push.Pushbots;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -53,8 +54,10 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
+        Pushbots.sharedInstance().init(this);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         mTitle = mDrawerTitle = getTitle();
 
