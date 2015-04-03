@@ -1,25 +1,20 @@
-package com.example.vipul.myapplication.slidelist;
+package com.example.vipul.myapplication;
 
-/**
- * Created by vipul on 26/3/15.
- */
-import com.example.vipul.myapplication.Message;
-import com.example.vipul.myapplication.R;
-import com.example.vipul.myapplication.VipulDatabaseAdapter;
-
-import android.annotation.SuppressLint;
-import android.app.Fragment;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
+import android.support.v7.app.ActionBarActivity;
 import android.view.LayoutInflater;
+import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
-@SuppressLint("NewApi") public class Quiz_Fragment extends Fragment{
-
+/**
+ * Created by vipul on 3/4/15.
+ */
+public class UserDetails extends Fragment{
     EditText name;
     EditText rollnumber;
     EditText tenth;
@@ -52,12 +47,12 @@ import android.widget.Toast;
                 long id;
                 id = vipulHelper.insertData(name1,rollnumber1,cgpa1,twelfth1,tenth1,backlog1);
                 if(id<0)
-                    Message.message(getActivity(), "Unsuccessful");
+                    Message.message(getActivity(),"Unsuccessful");
                 else
                     Message.message(getActivity(),"Successfully inserted data");
             }
         });
         return v;
     }
-}
 
+}

@@ -177,7 +177,7 @@ import com.example.vipul.myapplication.R;
                     if(cgpa<6.00)
                     {
                         company="D";
-                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on. To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events .<br> Also try improve your CGPA.To target a mid range dream company you have to  improve your CGPA .<br> Also you could focus more on projects as an alternative  to join a mid range dream company.To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on. To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events. Also try improve your CGPA. To target a mid range dream company you have to  improve your CGPA. Also you could focus more on projects as an alternative  to join a mid range dream company.To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills.";
 
                     }
                     else
@@ -192,17 +192,17 @@ import com.example.vipul.myapplication.R;
                                     {
                                         if(nontechnical<=3)
                                         { company="D";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a  NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well. <br> Also try improve your CGPA.To target a mid range dream company you have to work in some technical societies first and also improve your CGPA .<br> Also you could focus more on projects as an alternative to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a  NON  DREAM company (package of about 4 - 6 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well. Also try improve your CGPA. To target a mid range dream company you have to work in some technical societies first and also improve your CGPA. Also you could focus more on projects as an alternative to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA . You also need to  start participating in coding competitions to improve your coding skills";
                                         }
                                         else
                                         {
                                             company="C";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> non technical DREAM   company (package of about  6  - 8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on.To be able to perform better in your placement what you need to look out of the following from here on.To target a mid range dream company you have to work in some technical societies first and also improve your CGPA .<br> Also you could focus more on projects as an alternative  to join a mid range dream company.To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a non technical DREAM company (package of about  6  - 8 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To be able to perform better in your placement what you need to look out of the following from here on. To target a mid range dream company you have to work in some technical societies first and also improve your CGPA. Also you could focus more on projects as an alternative  to join a mid range dream company. To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills.";
                                         }
                                     }
                                     else
                                     {company="C";
-                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   non technical  DREAM company( package of about  6  - 8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a mid range dream company you have to work in some technical societies first and also improve your CGPA .<br> Also you could focus more on projects as an alternative to move on to join a mid range dream company. To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills ";
+                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a non technical  DREAM company( package of about  6  - 8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on. To target a mid range dream company you have to work in some technical societies first and also improve your CGPA. Also you could focus more on projects as an alternative to move on to join a mid range dream company. To target a dream company you have to look out for  an internship and improve your CGPA . You also need to tart participating in coding competitions to improve your coding skills ";
 
                                     }
                                 }
@@ -212,7 +212,7 @@ import com.example.vipul.myapplication.R;
                                     {
 
                                         company="D";
-                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well.<br> Also try improve your CGPA. To target a mid range dream company you have to  improve your CGPA .<br> Also you could focus more on projects as an alternative  to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a NON  DREAM  company (package of about 4 - 6 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well. Also try improve your CGPA. To target a mid range dream company you have to  improve your CGPA. Also you could focus more on projects as an alternative  to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills. To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills.";
 
                                     }
                                     else
@@ -221,12 +221,12 @@ import com.example.vipul.myapplication.R;
                                         {
 
                                             company="B";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>  mid range DREAM  company (package of about  6  -  8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on . To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a mid range DREAM  company (package of about  6  -  8 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills.";
                                         }
                                         else
                                         {
                                             company="D";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on . To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well .<br> Also  try improve your CGPA. To target a mid range dream company you have to  improve your CGPA .<br> Also you could focus more on projects as an alternative  to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a NON  DREAM  company (package of about 4 - 6 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a non - technical  dream company from here on you need to increase your participation in non technical societies and events as well. Also  try improve your CGPA. To target a mid range dream company you have to  improve your CGPA. Also you could focus more on projects as an alternative  to join a mid range dream company .To target a dream company you have to look out for  an internship and improve your CGPA. You also need to  start participating in coding competitions to improve your coding skills.";
                                         }
 
                                     }
@@ -240,12 +240,12 @@ import com.example.vipul.myapplication.R;
                                 if(nontechnical==0)
                                 {
                                     company="D";
-                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> NON  DREAM  company ( package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well <br>. Also try improve your CGPA. To target a mid range dream company you have to  improve your CGPA .<br> Also you could focus more on projects as an alternative  to join a mid range dream company . To target a dream company you have to look out for  an internship and improve your CGPA  .<br> You also need to  start participating in coding competitions to improve your coding skills.";
+                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a NON  DREAM  company ( package of about 4 - 6 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events as well. Also try improve your CGPA. To target a mid range dream company you have to  improve your CGPA. Also you could focus more on projects as an alternative  to join a mid range dream company . To target a dream company you have to look out for  an internship and improve your CGPA. You also need to start participating in coding competitions to improve your coding skills.";
                                 }
                                 else
                                 {
                                     company="B";
-                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> mid range  DREAM  company (package of about  6  - 8  Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a dream company you have to look out on working on more projects .";
+                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a mid range  DREAM  company (package of about  6  - 8  Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on .To target a dream company you have to look out on working on more projects .";
                                 }
                             }
                         }
@@ -260,19 +260,19 @@ import com.example.vipul.myapplication.R;
                                         if(cgpa<=7.51)
                                         {
                                             company="D";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> NON  DREAM  company (package of about 4 - 6 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events  well as try improve your CGPA. To target a mid range dream company you have to  improve your CGPA .<br> Also you could focus more on projects as an alternative to join a mid range dream company . To target a dream company you have to look out for  an internship and improve your CGPA  . <br>You also need to  start participating in coding competitions to improve your coding skills .";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a NON  DREAM  company (package of about 4 - 6 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on .To target a non -technical  dream company from here on you need to increase your participation in non technical societies and events  well as try improve your CGPA. To target a mid range dream company you have to  improve your CGPA. Also you could focus more on projects as an alternative to join a mid range dream company . To target a dream company you have to look out for  an internship and improve your CGPA. You also need to start participating in coding competitions to improve your coding skills .";
                                         }
                                         else
                                         {
                                             company="A";
-                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   DREAM  company (package of about 9 - 16  Lacs P.A.).To be able to perform the same way in the real interview you go to continue working this way .<br> Try learn some  more languages.";
+                                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a DREAM  company (package of about 9 - 16  Lacs P.A.). To be able to perform the same way in the real interview you go to continue working this way. Try learn some  more languages.";
                                         }
 
                                     }
                                     else
                                     {
                                         company="A";
-                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   DREAM  company ( package of about 9 - 16  Lacs P.A. ).To be able to perform the same way in the real interview you go to continue working this way . Try learn some  more languages  .";
+                                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a DREAM  company ( package of about 9 - 16  Lacs P.A. ). To be able to perform the same way in the real interview you go to continue working this way. Try learn some  more languages  .";
 
                                     }
 
@@ -280,7 +280,7 @@ import com.example.vipul.myapplication.R;
                                 else
                                 {
                                     company="A";
-                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   DREAM  company (package of about 9 - 16  Lacs P.A.).To be able to perform the same way in the real interview you go to continue working this way . Try learn some  more languages  .";
+                                    tobeprinted="Presently  your skills and resume  suggest you might be placed in a DREAM  company (package of about 9 - 16  Lacs P.A.). To be able to perform the same way in the real interview you go to continue working this way. Try learn some  more languages  .";
 
                                 }
 
@@ -288,7 +288,7 @@ import com.example.vipul.myapplication.R;
                             else
                             {
                                 company  =  "A" ;
-                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   DREAM  company (package of about 9 - 16  Lacs P.A.).To be able to perform the same way in the real interview you go to continue working this way . Try learn some  more languages ";
+                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a  DREAM  company (package of about 9 - 16  Lacs P.A.). To be able to perform the same way in the real interview you go to continue working this way. Try learn some  more languages ";
 
                             }
 
@@ -300,14 +300,14 @@ import com.example.vipul.myapplication.R;
                     if(internships==0)
                     {
                         company="B";
-                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> mid range  DREAM  company (package of about 6 -  8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a dream company you have to look out on getting an internship .";
+                        tobeprinted="Presently  your skills and resume  suggest you might be placed in a mid range  DREAM  company (package of about 6 -  8 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a dream company you have to look out on getting an internship .";
                     }
                     else
                     {
                         if(projects<=1)
                         {
                             company="C";
-                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   non technical  DREAM company (package of about  6  - 8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on .To target a mid range dream company   you need  to work on more projects.To target a dream company   you need  to work on more projects and also start participating in coding competitions to improve your coding skills.";
+                            tobeprinted="Presently  your skills and resume  suggest you might be placed in a non technical  DREAM company (package of about  6  - 8 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a mid range dream company   you need  to work on more projects. To target a dream company   you need  to work on more projects and also start participating in coding competitions to improve your coding skills.";
 
                         }
                         else
@@ -315,13 +315,13 @@ import com.example.vipul.myapplication.R;
                             if(contests<=0)
                             {
                                 company="B";
-                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br> mid range  DREAM  company (package of about  6  - 8 Lacs P.A.).To be able to perform better in your placement what you need to look out of the following from here on.To target a dream company you need to start participating in coding competitions .";
+                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a mid range  DREAM  company (package of about  6  - 8 Lacs P.A.). To be able to perform better in your placement what you need to look out of the following from here on. To target a dream company you need to start participating in coding competitions .";
 
                             }
                             else
                             {
                                 company="A";
-                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a<br>   DREAM  company ( package  of  about 9 - 16  Lacs P.A.).To be able to perform the same way in the real interview need to  continue working this way . Try learn some  more languages.";
+                                tobeprinted="Presently  your skills and resume  suggest you might be placed in a DREAM  company ( package  of  about 9 - 16  Lacs P.A.). To be able to perform the same way in the real interview need to  continue working this way. Try learn some  more languages.";
 
                             }
 
