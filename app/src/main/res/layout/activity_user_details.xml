@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    >
-
+    android:layout_height="match_parent">
 
     <TextView
         android:layout_width="wrap_content"
@@ -15,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Full Name"
+        android:layout_margin="5dp"
         android:id="@+id/name" />
 
     <TextView
@@ -26,6 +25,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/rollnumber" />
 
     <TextView
@@ -37,6 +37,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/cgpa" />
 
     <TextView
@@ -48,6 +49,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/tenthmarks" />
 
     <TextView
@@ -59,7 +61,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/twelthmarks" />
+        android:layout_margin="5dp"
+        android:id="@+id/twelfthmarks" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -70,6 +73,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:hint="NO"
         android:id="@+id/backlogs" />
 
@@ -77,8 +81,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Save My Details"
-        android:id="@+id/button"
-        android:layout_gravity="center_horizontal"
-        android:background="@color/red"/>
+        android:id="@+id/save"
+        android:layout_gravity="center_horizontal" />
 
 </LinearLayout>

@@ -63,8 +63,16 @@
         <service android:name="com.pushbots.push.GCMIntentService" />
 
         <activity
-            android:name=".UserDetails"
-            android:label="@string/title_activity_user_details" >
+            android:name=".FetchCompany"
+            android:label="@string/title_activity_fetch_company" >
+        </activity>
+        <activity
+            android:name=".ShowCompany"
+            android:label="@string/title_activity_show_company" >
+        </activity>
+        <activity
+            android:name=".SyncDB"
+            android:label="@string/title_activity_sync_db" >
         </activity>
     </application>
 
